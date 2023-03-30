@@ -1,6 +1,6 @@
 # AI-Machine-Learning
 
-| Pyhton Libraries | Def |
+| Python Libraries | Def |
 | ------------- | -- |
 | NumPy  | NumPy is a very popular python library for large multi-dimensional array and matrix processing. It is very useful for fundamental scientific computations in Machine Learning |
 | Pandas | Pandas is a popular Python library for data analysis. It is not directly related to Machine Learning. |
