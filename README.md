@@ -11,3 +11,12 @@
 | NLTK  | NLTK is a standard python library with prebuilt functions and utilities for the ease of use and implementation. |
 | Keras  | Keras is a very popular Machine Learning library for Python. It is a high-level neural networks API capable of running on top of TensorFlow, CNTK, or Theano. |
 | Tensorflow  | TensorFlow is a very popular open-source library for high performance numerical computation developed by the Google Brain team in Google. |
+
+# NumPy
+<img src="https://bids.berkeley.edu/sites/default/files/styles/400x225/public/projects/numpy_project_page.jpg?itok=flrdydei" alt="NumPy" width="400" height="225">
+
+It is the fundamental package for scientific computing with Python. It contains among other things:
+- a powerful N-dimensional array object
+- sophisticated (broadcasting) functions
+- tools for integrating C/C++ and Fortran code
+- useful linear algebra, Fourier transform, and random number capabilities
