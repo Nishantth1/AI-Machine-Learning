@@ -12,11 +12,46 @@
 | Keras  | Keras is a very popular Machine Learning library for Python. It is a high-level neural networks API capable of running on top of TensorFlow, CNTK, or Theano. |
 | Tensorflow  | TensorFlow is a very popular open-source library for high performance numerical computation developed by the Google Brain team in Google. |
 
-# NumPy
-<img src="https://bids.berkeley.edu/sites/default/files/styles/400x225/public/projects/numpy_project_page.jpg?itok=flrdydei" alt="NumPy" width="400" height="225">
+# NumPy Library
 
-It is the fundamental package for scientific computing with Python. It contains among other things:
-- a powerful N-dimensional array object
-- sophisticated (broadcasting) functions
-- tools for integrating C/C++ and Fortran code
-- useful linear algebra, Fourier transform, and random number capabilities
+NumPy is a popular Python library for numerical computing. It provides powerful data structures for efficiently storing and manipulating large arrays of numerical data, as well as tools for working with linear algebra, Fourier analysis, and more.
+
+![NumPy Logo](https://numpy.org/doc/stable/_static/numpylogo.svg)
+
+## Key Features
+
+- Multidimensional arrays with fast element-wise operations and broadcasting capabilities
+- Advanced indexing and slicing for selecting and manipulating array elements
+- Linear algebra functions for matrix operations, including matrix multiplication, inversion, and decomposition
+- Fourier analysis and signal processing tools for working with digital signals and images
+- Random number generation for simulating complex systems and experiments
+- Integration with other popular Python libraries for scientific computing, such as SciPy, Matplotlib, and Pandas
+
+## Installation
+
+You can install NumPy using pip, the Python package manager:
+
+```python
+pip install numpy
+```
+# Pandas Library
+
+Pandas is a popular Python library for data manipulation and analysis. It provides data structures for efficiently storing and working with tabular, labeled, and heterogeneous data, as well as tools for reading and writing data from and to various file formats.
+
+![Pandas Logo](https://pandas.pydata.org/docs/_static/pandas.svg)
+
+## Key Features
+
+- Fast and efficient data manipulation with built-in indexing and optimized algorithms
+- Powerful data aggregation and grouping capabilities
+- Easy handling of missing data and data alignment
+- Time series functionality for working with time-indexed data
+- Support for reading and writing data in various formats, including CSV, Excel, SQL databases, and more
+- Integration with other popular Python libraries for data analysis, such as NumPy, Matplotlib, and Scikit-learn
+
+## Installation
+
+You can install Pandas using pip, the Python package manager:
+
+```python
+pip install pandas
