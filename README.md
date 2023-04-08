@@ -16,8 +16,7 @@
 
 NumPy is a popular Python library for numerical computing. It provides powerful data structures for efficiently storing and manipulating large arrays of numerical data, as well as tools for working with linear algebra, Fourier analysis, and more.
 
-![NumPy Logo](https://numpy.org/doc/stable/_static/numpylogo.svg)
-
+<img src="https://numpy.org/doc/stable/_static/numpylogo.svg" width = 600 height = 200></img>
 ## Key Features
 
 - Multidimensional arrays with fast element-wise operations and broadcasting capabilities
@@ -38,7 +37,7 @@ pip install numpy
 
 Pandas is a popular Python library for data manipulation and analysis. It provides data structures for efficiently storing and working with tabular, labeled, and heterogeneous data, as well as tools for reading and writing data from and to various file formats.
 
-![Pandas Logo](https://pandas.pydata.org/docs/_static/pandas.svg)
+<img src="https://pandas.pydata.org/docs/_static/pandas.svg" width = 600></img>
 
 ## Key Features
 
@@ -61,7 +60,7 @@ pip install pandas
 
 Matplotlib is a popular Python library for creating static, animated, and interactive visualizations in Python. It provides a variety of plotting tools and visualization techniques for exploring and presenting data.
 
-![Matplotlib Logo](https://matplotlib.org/stable/_static/logo2_compressed.svg)
+<img src = "https://matplotlib.org/stable/_static/logo2_compressed.svg" width = 600 ></img>
 
 ## Key Features
 
@@ -81,4 +80,80 @@ pip install matplotlib
 To start using Matplotlib, you can import it like this:
 ```python
 import matplotlib.pyplot as plt
+```
+# Scipy Library
+Scipy is a Python library used for scientific and technical computing. It provides a wide range of functions for mathematical operations, optimization, signal processing, linear algebra, and more. Scipy builds on top of NumPy and provides additional functionality that is useful for scientific computing.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png" width = 300 height = 300></img>
+## Key Features
+- Integration with NumPy for numerical computing
+- Optimization and curve fitting tools
+- Signal processing and image manipulation functions
+- Statistics and probability functions
+- Sparse matrix and linear algebra functions
+- Interpolation and integration functions
+## Installation
+You can install Scipy using pip, the Python package manager:
+```python
+pip install scipy
+```
+
+# Scikit-learn Library
+
+Scikit-learn is a popular Python library for machine learning. It provides a wide range of algorithms for tasks like classification, regression, clustering, and dimensionality reduction. Scikit-learn is built on top of NumPy, SciPy, and Matplotlib, and provides a simple and consistent interface for working with machine learning models.
+
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width = 500 height = 300></img>
+## Key Features
+- Classification, regression, clustering, and dimensionality reduction algorithms
+- Cross-validation and model selection tools
+- Preprocessing and feature extraction functions
+- Support for both supervised and unsupervised learning
+- Integration with other popular Python libraries for data analysis
+## Installation
+You can install Scikit-learn using pip, the Python package manager:
+```python
+pip install scikit-learn
+```
+
+# Keras Library
+
+Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It provides a user-friendly interface for building deep learning models and supports a wide range of popular neural network architectures.
+
+<img src="https://keras.io/img/logo.png" width = 600></img>
+## Key Features
+
+- User-friendly API for building and training deep learning models
+- Support for various neural network architectures, including feedforward, convolutional, and recurrent networks
+- Easy integration with other popular deep learning frameworks, such as TensorFlow and CNTK
+- GPU acceleration for faster training on compatible hardware
+- Built-in utilities for data preprocessing, model evaluation, and more
+
+## Installation
+
+You can install Keras using pip, the Python package manager:
+
+```python
+pip install keras
+```
+
+# TensorFlow Library
+
+TensorFlow is a powerful open-source library for numerical computation and machine learning. It provides a flexible framework for building and training various types of deep learning models, including neural networks, convolutional networks, and recurrent networks.
+
+<img src="https://www.tensorflow.org/images/tf_logo_social.png" width = 600></img>
+
+## Key Features
+
+- Powerful and flexible framework for building and training deep learning models
+- Support for various neural network architectures, including feedforward, convolutional, and recurrent networks
+- Distributed computing support for training large-scale models across multiple GPUs and machines
+- Built-in utilities for data preprocessing, model evaluation, and more
+- Integration with other popular deep learning libraries, such as Keras and PyTorch
+
+## Installation
+
+You can install TensorFlow using pip, the Python package manager:
+
+```python
+pip install tensorflow
 ```
